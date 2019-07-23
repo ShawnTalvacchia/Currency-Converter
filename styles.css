@@ -1,0 +1,64 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #232C33;
+}
+
+.form-inputs {
+    border: .04rem solid #A0C1D1;
+    box-shadow: none;
+}
+
+.form-inputs:hover {
+    border: .04rem solid #232C33;
+    box-shadow: 3px 3px 3px 3px grey;
+}
+
+#input-container {
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'Bungee Outline', cursive;
+    color: #232C33;
+    font-weight: 999;
+    letter-spacing: .4vw;
+    padding: .2vw;
+    margin: .5vw;
+}
+
+.row-from-to {
+    margin-top: 2rem;
+}
+
+.result-button {
+    margin-top: 2rem;
+}
+
+.jumbotron {
+    margin-top: 3rem;
+    border-radius: 1.5%;
+    background-color: #DADFF7;
+}
+
+h3 {
+    margin-top: 2rem;
+}
+
+.row-currency {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 2rem;
+}
+
+.btn {
+    background-color: #5A7D7C;
+    border-color: #5A7D7C;
+}
+
+.btn:hover {
+    background-color: #232C33;
+    border-color: #232C33;
+}
+
+.btn:visited {
+    background-color: #B5B2C2;
+    border-color: #B5B2C2 
+}
