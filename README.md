@@ -3,6 +3,10 @@
 
 For our introduction to javascript, we created a currency converter. 
 
+![image](img/Currency-LG.png)
+![image](img/Currency-SM.png)
+
+
 ## Javascript
 
 Created a function to give us an exchange rate, once supplied two inputs (fromCurrency, toCurrency).
