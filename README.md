@@ -1,5 +1,3 @@
-![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
-
 # Currency Converter
 > Week 2: Intro to JavaScript - LAB: CURRENCY CONVERTER (BASIC)
 
