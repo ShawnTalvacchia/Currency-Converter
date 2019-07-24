@@ -14,12 +14,12 @@ body {
 }
 
 #input-container {
-    font-size: 3rem;
+    font-size: 2.3rem;
     text-align: center;
     font-family: 'Bungee Outline', cursive;
     color: #232C33;
     font-weight: 999;
-    
+    letter-spacing: 1.3vw;
     margin: .5vw;
 }
 
