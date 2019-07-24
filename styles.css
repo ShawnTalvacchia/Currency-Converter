@@ -14,14 +14,17 @@ body {
 }
 
 #input-container {
-    font-size: 4rem;
+    font-size: 3rem;
     text-align: center;
     font-family: 'Bungee Outline', cursive;
     color: #232C33;
     font-weight: 999;
-    letter-spacing: .4vw;
-    padding: .2vw;
+    
     margin: .5vw;
+}
+
+.container-a {
+    margin: 7rem;
 }
 
 .row-from-to {
@@ -33,8 +36,8 @@ body {
 }
 
 .jumbotron {
-    margin-top: 3rem;
-    border-radius: 1.5%;
+    margin: 4rem;
+    border-radius: 1.3%;
     background-color: #DADFF7;
 }
 
